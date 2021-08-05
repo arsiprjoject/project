@@ -1,0 +1,13 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.pad-r-0{
+    padding-right: 0px !important;
+}
+.pad-l-0 {
+    padding-left: 0px !important;
+}
